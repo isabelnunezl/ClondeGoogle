@@ -22,7 +22,6 @@ En este proyecto, he construido una réplica de la página de inicio de Google q
 ## 3. Objetivo del proyecto 📖 
 Practicar la creación de estructuras HTML semánticas y aplicar estilos de diseño utilizando CSS.
 
-## 4. Link a demo 🌐
+## 4. Link a demo 👀
 ¿Quieres ver cómo quedó esta réplica en acción? ¡Puedes visitar el siguiente enlace para ver el demo en vivo!
-
 👉 [Clon de Google](https://clon-de-google-ivory.vercel.app/)

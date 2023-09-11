@@ -13,18 +13,13 @@ La página de inicio de Google es una de las interfaces web ampliamente utilizad
 ## 2. ¿Qué Construí? 🏗️
 En este proyecto, he construido una réplica de la página de inicio de Google que incluye los siguientes elementos:
 
-* **Barra de Navegación** 🚀
-  Barra de navegación en la parte superior con enlaces a Gmail e Imágenes de Google.
-  Ícono de menú y de imagen de perfil en la esquina superior derecha.
+* **Barra de Navegación:** 🚀 Barra de navegación en la parte superior con enlaces a Gmail e Imágenes de Google. Ícono de menú y de imagen de perfil en la esquina superior derecha.
 
 * **Logo de Google** 🌟
 
-* **Barra de Búsqueda** 🔍
-- Barra de búsqueda con íconos de búsqueda por voz y búsqueda con cámara.
-- Botones "Buscar con Google" y "Voy a tener suerte".
+* **Barra de Búsqueda:** 🔍 Barra de búsqueda con íconos de búsqueda por voz y búsqueda con cámara. Botones "Buscar con Google" y "Voy a tener suerte".
 
-* **Pie de Página** 📝
-- Enlaces a diversas páginas de Google, como "Sobre Google", "Publicidad", "Políticas de privacidad" y más.
+* **Pie de Página:** 📝 Enlaces a diversas páginas de Google, como "Sobre Google", "Publicidad", "Políticas de privacidad" y más.
 
 ## 3. Objetivo del proyecto 📖 
 Practicar la creación de estructuras HTML semánticas y aplicar estilos de diseño utilizando CSS.

@@ -19,7 +19,7 @@ En este proyecto, he construido una réplica de la página de inicio de Google q
 
 * **Barra de Búsqueda:** 🔍 Barra de búsqueda con íconos de búsqueda por voz y búsqueda con cámara. Botones "Buscar con Google" y "Voy a tener suerte".
 
-* **Pie de Página:** 📝 Enlaces a diversas páginas de Google, como "Sobre Google", "Publicidad", "Políticas de privacidad" y más.
+📝**Pie de Página:**  Enlaces a diversas páginas de Google, como "Sobre Google", "Publicidad", "Políticas de privacidad" y más.
 
 ## 3. Objetivo del proyecto 📖 
 Practicar la creación de estructuras HTML semánticas y aplicar estilos de diseño utilizando CSS.

@@ -8,14 +8,14 @@ Este es un proyecto que replica la página de inicio de Google utilizando HTML5 
 4. Link a demo 👀
 
 ## 1. Intro
-La página de inicio de Google es una de las interfaces web ampliamente utilizadas en el mundo. La réplica incluye elementos clave, como la barra de búsqueda, los botones "Buscar con Google" y "Voy a tener suerte", así como enlaces a servicios populares de Google, como Gmail e Imágenes de Google. 
+La página de inicio de Google es una de las interfaces web ampliamente utilizadas en el mundo. La réplica incluye elementos clave, como la barra de búsqueda, los botones, así como enlaces a servicios populares de Google, como Gmail e Imágenes de Google. 
 
 ## 2. ¿Qué Construí? 🏗️
 En este proyecto, he construido una réplica de la página de inicio de Google que incluye los siguientes elementos:
 
 * **Barra de Navegación** 🚀
-- Barra de navegación en la parte superior con enlaces a Gmail e Imágenes de Google.
-- Ícono de menú y de imagen de perfil en la esquina superior derecha.
+  Barra de navegación en la parte superior con enlaces a Gmail e Imágenes de Google.
+  Ícono de menú y de imagen de perfil en la esquina superior derecha.
 
 * **Logo de Google** 🌟
 
